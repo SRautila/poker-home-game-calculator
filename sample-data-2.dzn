@@ -1,0 +1,3 @@
+Players = { Alice, Bob, Carol, Dave, Eve };
+buy_ins = [4000, 4000, 2000, 2000, 2000];
+standings = [2063, 3612, 2323, 2879, 3123];
